@@ -7,7 +7,13 @@ La base del robot es un [Pi2Go](http://4tronix.co.uk/store/index.php?rt=product/
 
 <a href="" target="_blank"><img width="325" height="218" border="0" align="center" src="res/img/pi2go-4tronix.jpg "/></a>
 
-Para el taller en el Guadalinfo de Sorbas organizado por [Guadatech](https://www.guadatech.com/abiertas-las-inscripciones-al-taller-intensivo-y-basado-en-proyectos-de-raspberry-pi-junio-julio-2018-en-sorbas/), he hecho la siguiente modificación:
+Para el taller en el Guadalinfo de Sorbas organizado por [Guadatech](https://www.guadatech.com/abiertas-las-inscripciones-al-taller-intensivo-y-basado-en-proyectos-de-raspberry-pi-junio-julio-2018-en-sorbas/), he hecho la siguiente modificación: 
+
+- Raspberry Pi 3 B, con 1G de RAM.
+
+- Webcam, para la visión artificial.
+
+- Batería Lipo de 7,4v 2200 mAh
 
 <a href="" target="_blank"><img width="290" height="218" border="0" align="center" src="res/img/Pi2Go.jpg "/></a>
 <a href="" target="_blank"><img width="290" height="218" border="0" align="center" src="res/img/Pi2Go+RPi.jpg "/></a>
