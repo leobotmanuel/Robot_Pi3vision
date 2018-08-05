@@ -9,6 +9,6 @@ La base del robot es un [Pi2Go](http://4tronix.co.uk/store/index.php?rt=product/
 
 Para el taller en el Guadalinfo de Sorbas organizado por [Guadatech](https://www.guadatech.com/abiertas-las-inscripciones-al-taller-intensivo-y-basado-en-proyectos-de-raspberry-pi-junio-julio-2018-en-sorbas/), he hecho la siguiente modificación:
 
-<a href="" target="_blank"><img width="312" height="234" border="0" align="center" src="res/img/Pi2Go.jpg "/></a>
-<a href="" target="_blank"><img width="312" height="234" border="0" align="center" src="res/img/Pi2Go+RPi.jpg "/></a>
-<a href="" target="_blank"><img width="312" height="234" border="0" align="center" src="res/img/Pi3vision.jpg "/></a>
+<a href="" target="_blank"><img width="250" height="234" border="0" align="center" src="res/img/Pi2Go.jpg "/></a>
+<a href="" target="_blank"><img width="250" height="234" border="0" align="center" src="res/img/Pi2Go+RPi.jpg "/></a>
+<a href="" target="_blank"><img width="250" height="234" border="0" align="center" src="res/img/Pi3vision.jpg "/></a>
