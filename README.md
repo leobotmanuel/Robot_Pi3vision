@@ -11,3 +11,5 @@ Para el taller en el Guadalinfo de Sorbas organizado por [Guadatech](https://www
 
 <a href="" target="_blank"><img width="416" height="312" border="0" align="center" src="res/img/Pi2Go.jpg "/></a>
 <a href="" target="_blank"><img width="416" height="312" border="0" align="center" src="res/img/Pi2Go+RPi.jpg "/></a>
+
+<a href="" target="_blank"><img width="416" height="312" border="0" align="center" src="res/img/Pi3vision.jpg "/></a>
