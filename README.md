@@ -29,4 +29,8 @@ El robot Pi3vision tiene como base la plataforma [Pi2Go](https://4tronix.co.uk/b
 
 y hay que tener una aplicación para control remoto VNC Viewer.
 
-Resultado del aprendizaje 
+### Resultado del aprendizaje 
+
+- [calibración de movimientos](https://youtu.be/ehrYtap9PvE)
+
+
