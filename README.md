@@ -31,6 +31,8 @@ y hay que tener una aplicación para control remoto VNC Viewer.
 
 ### Resultado del aprendizaje 
 
-- [calibración de movimientos](https://youtu.be/ehrYtap9PvE)
+- [Calibración de movimientos](https://youtu.be/ehrYtap9PvE)
+
+- [Movimientos básicos por control remoto (wifi)](https://youtu.be/0p2hqQF7Ni0)
 
 
