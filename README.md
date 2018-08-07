@@ -18,3 +18,15 @@ Para el taller en el Guadalinfo de Sorbas organizado por [Guadatech](https://www
 <a href="" target="_blank"><img width="290" height="218" border="0" align="center" src="res/img/Pi2Go.jpg "/></a>
 <a href="" target="_blank"><img width="290" height="218" border="0" align="center" src="res/img/Pi2Go+RPi.jpg "/></a>
 <a href="" target="_blank"><img width="290" height="218" border="0" align="center" src="res/img/Pi3vision.jpg "/></a>
+
+## Programando a Pi3vision
+
+El robot Pi3vision tiene como base la plataforma [Pi2Go](https://4tronix.co.uk/blog/?p=452) que dispone:
+
+- La [librería para programarlo en Python](http://4tronix.co.uk/blog/?p=475) 
+
+- La configuración de las comunicaciones por [I2C SMBus](http://4tronix.co.uk/rpi/sd_setup.pdf)
+
+y hay que tener una aplicación para control remoto VNC Viewer.
+
+Resultado del aprendizaje 
